@@ -1,7 +1,7 @@
 # Digitalização e Derivados
 
 ## OBJETIVOS 
-crie um site 
+crie um site que ajude na digitalizaçâo para pessoas mais velhas que nao tem noçâo de diagitar, ensine do zero a digitar como um profissional
 
 ### STACK TECNÓLOGICO
 - Backend: PHP estruturado em sessões nativas
@@ -9,7 +9,10 @@ crie um site
 - Frontend: HTML5, PHP, CSS, Tailwind CSS
 
 #### Regras de negocio (CORE) 
-
+- quero que meu site tenha um desing de noite azul escuro com uma lua amarela
+- quero que cada pessoa que se cadastre pergunte seu nivel de digitação
+- quero que seja intuitivo e divertido com palavras flutuantes sobre as nuvens da noite da lua amarela do desing
+- cada pessoa que se cadastrar nao terá o direito de se cadastrar novamente 
 
 
 
